@@ -1,0 +1,2 @@
+Códigos tem como finalidade mapear os clientes credenciados dos laboratórios. 
+Arquivo *Verific* faz comparações entre a atualização da base mais recente e a atualização anterior mostrando a movimentação de clientes credenciados.
